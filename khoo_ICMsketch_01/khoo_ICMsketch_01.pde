@@ -6,7 +6,7 @@ float y=0;
 void setup(){
 size(400,400);
 colorMode(RGB,255,255,255);
-background(302,22,90);
+background(302,22,100);
 smooth();
 noStroke();
 
